@@ -4,21 +4,6 @@
 	"parameters": {
 		"factoryName": {
 			"value": "jrffactory1"
-		},
-		"AzureDataLakeStorage1_accountKey": {
-			"value": ""
-		},
-		"FileServer1_password": {
-			"value": ""
-		},
-		"AzureDataLakeStorage1_properties_typeProperties_url": {
-			"value": "https://jfdatalake.dfs.core.windows.net/"
-		},
-		"FileServer1_properties_typeProperties_host": {
-			"value": "c:\\"
-		},
-		"FileServer1_properties_typeProperties_userId": {
-			"value": "catalystsolves\\jfoster"
 		}
 	}
 }
